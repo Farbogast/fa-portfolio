@@ -30,7 +30,7 @@ background-size: cover;
     width: 100%;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-wrap: wrap;
     max-width: 1500px;
 }
@@ -75,8 +75,8 @@ h1{
     align-items: center;
 }
 
-.react-icons{
-    margin-right: 15px;
+.react-icons-skills{
     color: #D59112;
     font-size: 2.5rem;
+    margin-right: 10px;
 }

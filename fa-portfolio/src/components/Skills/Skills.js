@@ -10,7 +10,7 @@ import './Skills.css'
 
 const Skills = () => {
     return (
-        <IconContext.Provider value={{ className: 'react-icons' }}>
+        <IconContext.Provider value={{ className: 'react-icons-skills' }}>
         <div className='skills-container'>
             <h1>My Skills</h1>
             <div className='skills-wrapper'>
@@ -41,7 +41,7 @@ const Skills = () => {
                     <h2 className='title-stack'>Workflow</h2>
                     <div className='stack-list'>
                     <div className='stack-stuff'><FaIcons.FaGithubSquare/>Git-Github</div>
-                    <div className='stack-stuff'><DiIcons.DiScrum/>Scrum / Agile Methodology</div>
+                    <div className='stack-stuff'><DiIcons.DiScrum/>Scrum / Agile</div>
                     <div className='stack-stuff'><AiIcons.AiOutlineDeploymentUnit/>Netifly</div>
                     <div className='stack-stuff'><FaIcons.FaFigma/>Figma</div>
                     </div>

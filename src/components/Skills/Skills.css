@@ -81,6 +81,11 @@ h1{
     margin-right: 10px;
 }
 
+.next{
+    margin-bottom: 50px;
+}
+
+
 @media only screen and (max-width: 768px){
 
     h1{

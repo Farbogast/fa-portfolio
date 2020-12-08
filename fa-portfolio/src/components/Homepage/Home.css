@@ -76,5 +76,18 @@ font-family: 'Rubik', sans-serif;
 
     .content p{
         font-size: 20px;
+        max-width: 500px;
+    }
+}
+
+@media only screen and (max-width: 480px){
+    .hi{
+        font-size: 40px;
+        color: #012f44;
+    }
+
+    .content p{
+        font-size: 20px;
+        max-width: 250px;
     }
 }

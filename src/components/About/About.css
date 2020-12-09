@@ -52,9 +52,9 @@
 }
 
 h1 {
-    margin-bottom: 50px;
+    margin-bottom: 35px;
     font-family: 'Rubik', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     color: #D59112;
 }
 
@@ -65,7 +65,7 @@ h1 {
     flex-wrap: wrap;
     justify-content:space-evenly;
     align-items: center;
-    margin-bottom: 50px;
+    margin-bottom: 35px;
     max-width: 1300px;
 }
 

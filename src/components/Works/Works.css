@@ -22,9 +22,9 @@
 
 h1 {
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     font-family: 'Rubik', sans-serif;
-    font-size: 60px;
+    font-size: 50px;
     color: #D59112;
 }
 
@@ -42,8 +42,8 @@ text-align: center;
     border: solid 3px #D59112;
     border-radius: 15px;
     background: #03283A;
-    padding: 20px;
-    margin-bottom: 40px;
+    padding: 15px;
+    margin-bottom: 30px;
 
 }
 
@@ -171,6 +171,7 @@ background-size: cover;
 
     .portfolio-project{
         max-width: 350px;
+
     }
 
     .react-icons{

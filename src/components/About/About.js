@@ -25,7 +25,7 @@ const About = () => {
                         <h2>I am</h2>
                         <div className='hobby'><p>Name: François Arbogast</p></div>
                         <div className='hobby'><p>Age: 30</p></div>
-                        <div className='hobby'><p>Location: London(UK)</p></div>
+                        <div className='hobby'><p>Location: London (UK)</p></div>
                     </div>
                     <div className='hobby-list'>
                         <h2>I like</h2>
@@ -42,7 +42,7 @@ const About = () => {
                 </div>
                 <div className='about-wrapper-right'>
                         <h2>A little bit more..</h2>
-                        <p>I'm a french Fullstack Softaware Engineer, but not only. I used to be a construction manager for 10 years. I learned a lot from this job. It makes me an Autonomous and Organized Team Worker. 
+                        <p>I'm a french Fullstack Software Engineer, but not only. I used to be a construction manager for 10 years. I learned a lot from this job. It makes me an Autonomous and Organized Team Worker.
                             Atfer these years, I wanted to change for a Job that I enjoyed more. That's why I've decided in 2020 to do my professional retraining as a Software Engineer.
                             I've successfully ended my Bootcamp at the Wild Code School in August 2020. If you want to learn more about me you can download my resume <Link className='cv' to="/files/CV.pdf" target="_blank" download >here</Link>.
                         </p>

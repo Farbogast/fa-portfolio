@@ -6,7 +6,7 @@ import * as GiIcons from 'react-icons/gi';
 import * as BiIcons from 'react-icons/bi';
 import { IconContext } from 'react-icons';
 import { Link } from 'react-router-dom';
-import me from '../../images/me.JPG'
+import me from '../../images/me.png'
 import './About.css'
 
 
@@ -43,7 +43,7 @@ const About = () => {
                 <div className='about-wrapper-right'>
                         <h2>A little bit more..</h2>
                         <p>I'm a french Fullstack Softaware Engineer, but not only. I used to be a construction manager for 10 years. I learned a lot from this job. It makes me an Autonomous and Organized Team Worker. 
-                            Atfer these years, I wasn't in phase with the 'World' of the construction and the race of 'Build faster and cheaper'. That's why I decided in 2020 to do my professional retraining as a Software Engineer.
+                            Atfer these years, I wanted to change for a Job that I enjoyed more. That's why I decided in 2020 to do my professional retraining as a Software Engineer.
                             I successfully ended my Bootcamp at the Wild Code School in August 2020. If you want to learn more about me you can download my resume <Link className='cv' to="/files/CV.pdf" target="_blank" download >here</Link>.
                         </p>
                 </div>

@@ -40,9 +40,7 @@ const Works = () => {
                             <div class="portfolio-project">
                                     <div class="portfolio-description">
                                         <h2>Styled-component React-app</h2>
-                                        <p>Building of an application to help an event organiser to
-                                            manage and create his conference with a third part system (Eventbrite) for
-                                            the booking system.
+                                        <p>Building of a Website of a fictionnal financial company. 
                                         </p>
                                         <p> #Front-end, #React, #Hooks, #Styled-components, #React-router,</p>
                                         <div class="portfolio-links">

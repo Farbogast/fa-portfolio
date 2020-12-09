@@ -166,6 +166,19 @@ p{
 
 /* Media Query */
 
+@media only screen and (max-width: 1024px){
+    .about-wrapper-left{
+        max-width: 800px;
+    }
+
+    .about-wrapper-right p{
+        max-width: 900px;
+    }
+
+}
+
+
+
 @media only screen and (max-width: 768px){
 
     h1{

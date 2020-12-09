@@ -9,7 +9,7 @@ const Contact = () => {
     return (
         <IconContext.Provider value={{ className: 'react-icons-contact' }}>
         <div className='contact-container'>
-            <h1>How contact me</h1>
+            <h1>How to contact me</h1>
             <div className='contact-wrapper'>
                 <div className='contact-icon'>
                 <div className='icon'><a href='https://www.linkedin.com/in/fran%C3%A7ois-arbogast-8bb67978/' target="_blank" rel="noreferrer"><FaIcons.FaLinkedin/></a></div>

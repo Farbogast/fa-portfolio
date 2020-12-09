@@ -16,6 +16,12 @@
       "src": "./sailboat.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+
+    {
+      "src": "./sailboat.png",
+      "type": "image/png",
+      "sizes": "520x272"
     }
   ],
   "start_url": ".",

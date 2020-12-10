@@ -164,7 +164,7 @@ background-size: cover;
 @media only screen and (max-width: 480px){
 
     h2{
-        font-size:20px ;
+        font-size:25px ;
     }
 
     p{
@@ -173,6 +173,7 @@ background-size: cover;
 
     .portfolio-project{
         max-width: 350px;
+        height: 350px;
 
     }
 

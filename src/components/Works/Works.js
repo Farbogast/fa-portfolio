@@ -38,7 +38,7 @@ const Works = () => {
                             <div class="portfolio-project">
                                     
                                         <h2>Styled-component React-app</h2>
-                                        <p>Building of a Website of a fictionnal financial company. 
+                                        <p>Building of a Website of a fictionnal financial company. Build with reusable component with styled-component.
                                         </p>
                                         <p> #Front-end, #React, #Hooks, #Styled-components, #React-router,</p>
                                         <div class="portfolio-links">
@@ -60,7 +60,7 @@ const Works = () => {
                             <div class="portfolio-project">
                                     
                                         <h2>Hackathon Wild Winds</h2>
-                                        <p>Travel from your cough – Select a location to have a trip.
+                                        <p>Travel from your cough – Select a location to have a trip around the world and get some information about the place!
                                         </p>
                                         <p>#React, #SASS, #JavaScript, #REST-API, #Responsive</p>
                                         <div class="portfolio-links">

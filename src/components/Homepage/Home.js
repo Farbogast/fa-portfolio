@@ -11,9 +11,9 @@ function Home() {
             Your browser does not support the video tag.
         </video>
         <div className='content'>
-            <h1 className='hi'>Hi there ! I'm François.</h1>
+            <h1 className='hi'>Hi there! I'm François.</h1>
             <p className='journey'>I'm a Software Engineer, and this is my journey.</p>
-            <Link to='/about'><button to='/about' >Discover me.</button></Link>
+            <Link to='/about'><button to='/about' >Discover me</button></Link>
         </div>
     </div>
   );

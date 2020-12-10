@@ -23,13 +23,13 @@ export const SidebarData = [
     cName: 'nav-text'
   },
   {
-    title: 'My Works',
+    title: 'My works',
     path: '/works',
     icon: <AiIcons.AiOutlineFundProjectionScreen />,
     cName: 'nav-text'
   },
   {
-    title: 'Contact Me',
+    title: 'Contact me',
     path: '/contact',
     icon: <FaIcons.FaEnvelopeOpenText />,
     cName: 'nav-text'

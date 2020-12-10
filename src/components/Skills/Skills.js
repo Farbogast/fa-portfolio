@@ -52,7 +52,7 @@ const Skills = () => {
                     <div className='stack-stuff'><SiIcons.SiBulma/>Bulma</div>
                     <div className='stack-stuff'><SiIcons.SiGatsby/>Gatsby</div>
                     <div className='stack-stuff'><SiIcons.SiGraphql/>GraphQL</div>
-                    <div className='stack-stuff'><FaIcons.FaDatabase/>MangoDB</div>
+                    <div className='stack-stuff'><FaIcons.FaDatabase/>MongoDB</div>
                     <div className='stack-stuff'><SiIcons.SiHeroku/>Heroku</div>
                     </div>
                 </div>

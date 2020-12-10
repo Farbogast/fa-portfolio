@@ -17,12 +17,12 @@ const Skills = () => {
                 <div className='stack'>
                     <h2 className='title-stack'>Front-end</h2>
                     <div className='stack-list'>
-                    <div className='stack-stuff'><FaIcons.FaHtml5/>HTLM5</div>
+                    <div className='stack-stuff'><FaIcons.FaHtml5/>HTML5</div>
                     <div className='stack-stuff'><FaIcons.FaCss3Alt/>CSS3-SASS</div>
                     <div className='stack-stuff'><FaIcons.FaBootstrap/>Bootstrap</div>
                     <div className='stack-stuff'><SiIcons.SiStyledComponents/>Styled Component</div>
                     <div className='stack-stuff'><SiIcons.SiJavascript/>JavaScript</div>
-                    <div className='stack-stuff'><FaIcons.FaReact/>React(Hooks, Context, Redux)</div>
+                    <div className='stack-stuff'><FaIcons.FaReact/>React (Hooks, Context, Redux)</div>
                     <div className='stack-stuff'><FaIcons.FaDatabase/>REST API</div>
                     </div>
                 </div>
